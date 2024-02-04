@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\tkowa\OneDrive\Dokumenty\Studia\informatyka 1\LOTTO\courses_graphics-master\main.cpp(33,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\tkowa\OneDrive\Dokumenty\Studia\informatyka 1\LOTTO\courses_graphics-master\main.cpp(249,44): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\tkowa\OneDrive\Dokumenty\Studia\informatyka 1\LOTTO\courses_graphics-master\main.cpp(249,31): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\tkowa\OneDrive\Dokumenty\Studia\informatyka 1\LOTTO\courses_graphics-master\main.cpp(254,44): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\tkowa\OneDrive\Dokumenty\Studia\informatyka 1\LOTTO\courses_graphics-master\main.cpp(254,31): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\tkowa\OneDrive\Dokumenty\Studia\informatyka 1\LOTTO\courses_graphics-master\main.cpp(261,35): warning C4101: "pomoci": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\tkowa\OneDrive\Dokumenty\Studia\informatyka 1\LOTTO\courses_graphics-master\main.cpp(261,20): warning C4101: "dxV": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\tkowa\OneDrive\Dokumenty\Studia\informatyka 1\LOTTO\courses_graphics-master\main.cpp(261,43): warning C4101: "pomocj": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\tkowa\OneDrive\Dokumenty\Studia\informatyka 1\LOTTO\courses_graphics-master\main.cpp(261,12): warning C4101: "Cx": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\tkowa\OneDrive\Dokumenty\Studia\informatyka 1\LOTTO\courses_graphics-master\main.cpp(261,30): warning C4101: "pit": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\tkowa\OneDrive\Dokumenty\Studia\informatyka 1\LOTTO\courses_graphics-master\main.cpp(261,25): warning C4101: "dyV": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\tkowa\OneDrive\Dokumenty\Studia\informatyka 1\LOTTO\courses_graphics-master\main.cpp(261,16): warning C4101: "Cy": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\tkowa\OneDrive\Dokumenty\Studia\informatyka 1\LOTTO\courses_graphics-master\main.cpp(359,27): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\tkowa\OneDrive\Dokumenty\Studia\informatyka 1\LOTTO\courses_graphics-master\main.cpp(363,31): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\tkowa\OneDrive\Dokumenty\Studia\informatyka 1\LOTTO\courses_graphics-master\main.cpp(367,31): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\tkowa\OneDrive\Dokumenty\Studia\informatyka 1\LOTTO\courses_graphics-master\main.cpp(371,31): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\tkowa\OneDrive\Dokumenty\Studia\informatyka 1\LOTTO\courses_graphics-master\main.cpp(375,31): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\tkowa\OneDrive\Dokumenty\Studia\informatyka 1\LOTTO\courses_graphics-master\main.cpp(423,34): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  ProjektVisualStudio2013.vcxproj -> C:\Users\tkowa\OneDrive\Dokumenty\Studia\informatyka 1\LOTTO\courses_graphics-master\Debug\ProjektVisualStudio2013.exe
